@@ -1,2 +1,2 @@
 # AUKY
- AI Desktop Voice Assistant
+ Desktop Voice Assistant
