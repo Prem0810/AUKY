@@ -8,10 +8,10 @@
  you can create changes for your Own
  
 ## Functions Performed
- Greets you with a warm welcome and wishing according to time.
- Morning, Afternoon, Evening
- Ask you about how to help.
- Starts listening to queries and if query includes some words specified to performs function on the basis of that.
+ ##### Greets you with a warm welcome and wishing according to time.
+ ##### Morning, Afternoon, Evening
+ ##### Ask you about how to help.
+ ##### Starts listening to queries and if query includes some words specified to performs function on the basis of that.
  Opens Up Google, Facebook, Youtube, LinkedIn on command. (You can change of your own)
  Search something on Wikipedia and speaks up what it finds.
  Ask the Current Time
