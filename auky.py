@@ -1,7 +1,7 @@
-import pyttsx3      # python text tom speech conversion library
+import pyttsx3      # python text tom speech conversion library | pip install pyttx3
 import datetime
-import speech_recognition as sr
-import wikipedia
+import speech_recognition as sr         # pip install speechRecognition
+import wikipedia            # pip install wikipedia
 import webbrowser
 import os
 import smtplib
