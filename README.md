@@ -14,6 +14,7 @@
  Starts listening to queries and if query includes some words specified to performs function on the basis of that.
  Opens Up Google, Facebook, Youtube, LinkedIn on command. (You can change of your own)
  Search something on Wikipedia and speaks up what it finds.
+ Ask the Current Time
  Plays Music for you on your command.
  Send Email to the person you mention. (dictionary and emails sets can be made and can be inclluded so that you can choose to whom the email should be send)
  
