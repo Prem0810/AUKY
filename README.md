@@ -16,6 +16,7 @@
  ##### Search something on Wikipedia and speaks up what it finds.
  ##### Ask the Current Time
  ##### Plays Music for you on your command.
+ ##### Open VS code on command.
  ##### Send Email to the person you mention. (dictionary and emails sets can be made and can be inclluded so that you can choose to whom the email should be send)
  
  Many more features will be added later this is just the begining.
